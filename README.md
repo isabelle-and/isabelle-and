@@ -1,20 +1,20 @@
 I am Isabelle Andreetta, I'm a Fullstack Developer, this is my stack:
 
-Backend:
-Java, with Framework (Spring Boot) or without frameworks ;
-Libraries: Java Standard libraries, JUnit, HTTP Libraries, Maven, Apache Commons;
-NodeJS + ExpressJS
-Frontend:
-Javascript, with ou without frameworks;
-Frameworks: ReactJS, Angular 2+;
-Libraries: JQuery, Material-UI, Bootstrap, SASS, etc;
-Database:
-MySQL/MariaDB;
-PostGreSQL;
-SQL Server;
-Tools:
-GIT/GitHub/GitLab;
-SCRUM/AGILE;
+- **Backend**: 
+- Java, with Framework (Spring Boot) or without frameworks ;
+- Libraries: Java Standard libraries, JUnit, HTTP Libraries, Maven, Apache Commons;
+- NodeJS + ExpressJS
+- **Frontend**:
+- Javascript, with ou without frameworks;
+- Frameworks: ReactJS, Angular 2+;
+- Libraries: Material-UI, Bootstrap, SASS, etc;
+- **Database**:
+- MySQL/MariaDB;
+- PostGreSQL;
+- SQL Server;
+- **Tools**:
+- GIT/GitHub/GitLab;
+- SCRUM/AGILE;
 
 
 
